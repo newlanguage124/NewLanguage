@@ -1,0 +1,14 @@
+Report ID: 36ef8db3-0d94-4c37-acf0-7f92287623b9
+Report timestamp: 2024-06-29T19:23:42Z
+
+# Account
+Phone number: +2348068767519
+Allow sealed sender from anyone: false
+Find account by phone number: true
+Badges: None
+
+# Devices
+- ID: 1
+  Created: 2023-09-21T13:01:33Z
+  Last seen: 2024-06-29T00:00:00Z
+  User-agent: OWA
